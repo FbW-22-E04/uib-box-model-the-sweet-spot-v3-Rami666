@@ -1,0 +1,129 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+body {
+  background-color: #d8d7d7;
+}
+header {
+  text-align: center;
+
+  background-color: blanchedalmond;
+}
+
+.img1 {
+  height: 300px;
+  width: 100%;
+  display: block
+}
+h1 {
+  height: 50px;
+  background-color: pink;
+  
+
+  text-align: center;
+}
+.sweet {
+  border: 100px solid rgb(196, 138, 138);
+  text-align: center;
+  padding-top: 44px;
+  font-size: 50px;
+  color: white;
+  background-color: rgb(28, 28, 11);
+}
+.sec {
+  border: 1px solid rgb(253, 251, 251);
+  height: 1800px;
+  width: 1500px;
+  background-color: #ffffff;
+
+  margin-left: 150px;
+  margin-top: 50px;
+  border-radius: 5px;
+
+}
+.header1 {
+  color: rgb(7, 6, 6);
+  background-color: #d8d7d7;
+  border-radius: 5px;
+  width: 96%;
+  height: 60px;
+
+  margin-top: 20px;
+  margin-left: 50px;
+  text-align: center;
+}
+.p1 {
+  margin-top: 4px;
+  margin-left: 50px;
+  text-align: left;
+}
+h2 {
+  text-align: left;
+  margin-top: 43px;
+  padding-top: 18px;
+  color: rgb(244, 99, 123);
+  font-style: italic;
+  font-size: 2rem;
+}
+.img2{
+
+border-radius: 50%;
+width: 170px;
+float: left;
+border: 8px solid yellow;
+margin-left: 30px;
+
+
+}
+.img3{
+height: 170px;
+    border-radius: 50%;
+width: 170px;
+float: right;
+border: 8px solid rgb(132, 184, 252);
+margin-right: 30px;
+}
+.img4{
+    height: 160px;
+    border-radius: 50%;
+    width: 170px;
+    float: left;
+    border: 8px solid pink;
+    margin-left: 30px;
+}
+h3{
+
+    text-align: center;
+    margin-top: 43px;
+    padding-bottom: 20px;
+    
+  }
+.nation1{
+
+    background-color: pink;
+    list-style: none;
+    margin-top: 30px;
+    text-align: left;
+  margin-top: 43px;
+  padding-top: 18px;
+    
+  
+}
+  .nation1:hover{
+    
+
+    background-color: rgb(186, 186, 164);
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    
+}
